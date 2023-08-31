@@ -1,0 +1,11 @@
+body {
+    display: grid;
+    place-content: center;
+background-color: rgb(200, 149, 247);
+
+}
+
+button {
+    margin: 20px;
+    padding: 5px 10px;
+}

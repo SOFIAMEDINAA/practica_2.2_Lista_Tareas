@@ -11,7 +11,6 @@ function agregar() {
     <li> ${nuevaTarea} </li>
     `;
     
-    
     listaTareas.push (nuevaTarea);
 
     localStorage.setItem(CLAVE_TAREAS , JSON.stringify(listaTareas));
